@@ -1,0 +1,91 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+.bg{
+    background-color: white;
+}
+.tt{
+    background-color:white;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    position: relative;
+    left: 65%;
+    top: 20%;
+    align-items: center;
+}
+#img{
+    border-radius: 20px;
+}
+.yy{
+    position: relative;
+    left: 90px;
+    bottom: 100px;
+   
+
+}
+.foundation{
+    width: 100%;
+    height: auto;
+    min-height: 5vh;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    position: relative  ;
+    bottom: -90px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+
+}
+#name{
+    position: relative;
+    top: 2px;
+}
+#pos{
+    position: relative;
+    left: 1150px;
+    
+}
+#pos1{
+    position: relative;
+    left: 1000px;
+    
+}
+#pos2{
+    position: relative;
+    left: 850px;
+    
+}
+#pos3{
+    position: relative;
+    left: 700px;
+
+    
+}
+#pos4{
+    position: relative;
+    left: 480px;
+}
+.ee{
+    width: 250px;
+    height: 750px;
+    color: black;
+}
+#tht{
+    position: relative;
+    bottom: 5px;
+}
+.navbar{
+    max-height: 72px;
+}
+#trtrt{
+   font-size: 30px;
+}
+#namess{
+    color: white;
+}
